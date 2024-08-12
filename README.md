@@ -1,8 +1,23 @@
-<h1>Learn-By-Doing-Project-Ideas</h1>
+<h1>Learn-to-Code-With-Projects</h1>
   
 <details>
 <summary><h1>Python</h1></summary>
-  
+  https://www.youtube.com/watch?v=kqtD5dpn9C8
+<h1>Create your own game using Pycharm</h1>
+  <p>Example: https://github.com/GramGra07/soccer_game</p>
+  <h3>Resources</h3>
+  <ul>
+    <li>https://www.youtube.com/watch?v=y9VG3Pztok8</li>
+    <li>https://www.activestate.com/blog/how-to-use-pygame-for-game-development/</li>
+  </ul>
+  <br>
+  <h1>Make a data collection system</h1>
+  <p>Example: https://github.com/GramGra07/FTCScoutingLogger</p>
+  <h3>Resources</h3>
+  <ul>
+    <li>https://www.geeksforgeeks.org/python-gui-tkinter/</li>
+    <li>https://www.w3schools.com/python/python_file_write.asp</li>
+  </ul>
 </details>
 <br>
 
